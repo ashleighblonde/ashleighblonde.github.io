@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Starting Over Again"
-date:       2019-03-13 02:06:38 +0000
+date:       2019-03-12 22:06:40 -0400
 permalink:  starting_over_again
 ---
 
